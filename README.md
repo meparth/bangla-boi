@@ -1,2 +1,7 @@
 # bangla-boi-api
-APIs for getting books from ebanglalibrary's website. We are commited to use scraping responsibly and for personal use only.
+node project for getting books from ebanglalibrary's website. 
+
+- clone the project
+- open index.js
+- edit the url to some book from ebanglalibrary.com
+- do npm start
